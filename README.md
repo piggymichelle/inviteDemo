@@ -1,11 +1,6 @@
-<<<<<<< HEAD
+
 # invitationDemo
-based on Reactjs invitation demo
-=======
-<<<<<<< HEAD
-# invitationDemo
-based on Reactjs invitation demo
-=======
+based on Reactjs invitation demo,
 This project was based on bootstrapped with [Create React App](https://github.com/facebook/create-react-app), which mbuild invitation pages.
 
 ## Available Scripts
@@ -58,5 +53,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> upload 4
->>>>>>> upload 1
